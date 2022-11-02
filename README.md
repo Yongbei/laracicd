@@ -1,1 +1,1 @@
-CI/CD Practice: Github Action + AWS Elastic Beantalk + AWS code pipeline
+CI/CD Practice: Github Action + AWS Elastic Beantalk + AWS CodePipeline
